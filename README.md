@@ -39,11 +39,12 @@ Developed by: RegisterNumber:*/
 
 
 **RTL realization Output:**
-<img width="1194" height="556" alt="Screenshot 2025-10-03 091937" src="https://github.com/user-attachments/assets/aba07541-3158-4bb0-bce0-808d6fc0b686" />
 
+<img width="888" height="612" alt="exp 2 rtl " src="https://github.com/user-attachments/assets/5036f680-e127-4e8a-9e04-36fede9011d9" />
 
 **RTL**
-<img width="888" height="612" alt="exp 2 rtl " src="https://github.com/user-attachments/assets/5036f680-e127-4e8a-9e04-36fede9011d9" />
+
+<img width="1194" height="556" alt="Screenshot 2025-10-03 091937" src="https://github.com/user-attachments/assets/aba07541-3158-4bb0-bce0-808d6fc0b686" />
 
 
 **Timing Diagram**
