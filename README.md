@@ -21,6 +21,8 @@ Hardware – PCs, Cyclone II , USB flasher
 ![exp 2 logic](https://github.com/user-attachments/assets/b1b06ef3-5536-4851-9d48-e202019db9ad)
 ![exp 2 logic    ](https://github.com/user-attachments/assets/e44d2623-1f6d-4075-aa93-fef2869db2b7)
 ![exp 2 logic](https://github.com/user-attachments/assets/ff831044-03e5-4662-ac80-6ce819e2ddb0)
+![exp 2 logicc](https://github.com/user-attachments/assets/dcc2adf7-fbaa-4496-9298-cdb83e9181c2)
+![exp 2   logig](https://github.com/user-attachments/assets/e8e1919c-1156-4b7d-9f01-0dc13e3b040d)
 
 
 **Procedure**
