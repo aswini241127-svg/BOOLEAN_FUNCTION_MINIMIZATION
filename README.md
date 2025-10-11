@@ -17,6 +17,11 @@ Hardware – PCs, Cyclone II , USB flasher
 **Theory**
 
 **Logic Diagram**
+![ex2 logic](https://github.com/user-attachments/assets/74fa621c-19bb-4297-8301-55b99e95e370)
+![exp 2 logic](https://github.com/user-attachments/assets/b1b06ef3-5536-4851-9d48-e202019db9ad)
+![exp 2 logic    ](https://github.com/user-attachments/assets/e44d2623-1f6d-4075-aa93-fef2869db2b7)
+![exp 2 logic](https://github.com/user-attachments/assets/ff831044-03e5-4662-ac80-6ce819e2ddb0)
+
 
 **Procedure**
 
@@ -40,14 +45,14 @@ Developed by: RegisterNumber:*/
 
 **RTL realization Output:**
 
-<img width="888" height="612" alt="exp 2 rtl " src="https://github.com/user-attachments/assets/5036f680-e127-4e8a-9e04-36fede9011d9" />
+![output](https://github.com/user-attachments/assets/06be0d0b-59d3-4d32-be01-c2fe77bf00aa)
 
 **RTL**
 
-<img width="1194" height="556" alt="Screenshot 2025-10-03 091937" src="https://github.com/user-attachments/assets/aba07541-3158-4bb0-bce0-808d6fc0b686" />
 
 
 **Timing Diagram**
+![exp 2 timin](https://github.com/user-attachments/assets/2aa5ebf5-1430-4b84-ad93-249c8009c9db)
 
 **Result:**
 
